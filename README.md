@@ -1,1 +1,2 @@
-# kakaotalk_bot_js
+<hr><hr3>This is KakaotalkBot</h3>
+Create used JavaScript.
