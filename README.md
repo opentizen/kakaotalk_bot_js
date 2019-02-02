@@ -7,7 +7,7 @@
 ** @method imageDB.getImage() - 수신된 이미지가 있을 경우 Base64 인코딩 되어있는 JPEG 이미지 반환, 기본 값 null<br>
 ** @method imageDB.getProfileImage() - Base64 인코딩 되어있는 JPEG 프로필 이미지 반환, 기본 값 null<br>
 ** @method replier.reply("문자열") - 메시지가 도착한 방에 답장을 보내는 메소드
-<h3>What is it</h3><hr>
+<h3>What is mean it?</h3><hr>
 ** @param {String} room - Chat room
 ** @param {String} msg - Message<br>
 ** @param {Boolean} isGroupChat - Group Chat Yes or No<br>
@@ -25,7 +25,7 @@
 // function onStop(activity) {}<br>
 // function onDestroy(activity) {}
 <h3>How to use it?</h3><hr>
-01. You can download KakatoalkBot for JS "https://play.google.com/store/apps/details?id=be.zvz.newskbot"
+01. You can download KakatoalkBot for JS "https://play.google.com/store/apps/details?id=be.zvz.newskbot"<br>
 02. You can download AndroidWear "https://play.google.com/store/apps/details?id=com.google.android.wearable.app"<br>
 03. If you downloaded apps, You can setting all Allow Android Permissions.<br>
 04. Reference readme.md after coding or modify kakaotalk bot
