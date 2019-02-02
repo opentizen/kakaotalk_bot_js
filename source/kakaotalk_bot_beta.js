@@ -20,6 +20,26 @@ function response(room, msg, sender, isGroupChat, replier, imageDB)
     {
         replier.reply("도움이 필요하신가요? 그럼 XX로 문의부탁드립니다~! from KISSD3V_BOT");
     }
+    if (msg.indexOf("날씨")!=-1)
+    {
+        replier.reply("너에게 표시해줄 날씨따위는 없습니다. from KISSD3V_BOT");
+    }
+    if (msg.indexOf("테스트")!=-1)
+    {
+        replier.reply("테스트메세지입니다. 아주 잘되네요^^! from KISSD3V_BOT");
+    }
+    if (msg.indexOf("얼른")!=-1)
+    {
+        replier.reply("나가주세요! from KISSD3V_BOT");
+    }
+    if (msg.indexOf("명령어")!=-1)
+    {
+        replier.reply("지원명령어는 안녕.뽐뿌.핫딜.날씨.얼른.테스트.도움말입니다. from KISSD3V_BOT");
+    }
+    if (msg.indexOf("99")!=-1)
+    {
+        replier.reply("쎆쑤!!!!!!");
+    }
 }
 
 //    /** @param {String} room - 방 이름
