@@ -28,4 +28,5 @@
 01. You can download KakatoalkBot for JS "https://play.google.com/store/apps/details?id=be.zvz.newskbot"<br>
 02. You can download AndroidWear "https://play.google.com/store/apps/details?id=com.google.android.wearable.app"<br>
 03. If you downloaded apps, You can setting all Allow Android Permissions.<br>
-04. Reference readme.md after coding or modify kakaotalk bot
+04. Reference readme.md after coding or modify kakaotalk bot<br>
+<img src="https://github.com/opentizen/kakaotalk_bot_js/blob/master/images/kakao1.png">
